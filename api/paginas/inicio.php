@@ -77,7 +77,7 @@
             <div class="hero-avatar-wrapper">
 
                 <img
-                    src="/assets/img/avatar-diego.png"
+                    src="/assets/img/foto-perfil.png"
                     alt="Avatar ilustrado de Diego Briceño"
                     class="hero-avatar"
                     width="210"
