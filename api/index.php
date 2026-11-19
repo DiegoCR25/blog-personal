@@ -7,6 +7,7 @@ $perfil = require __DIR__ . '/datos/perfil.php';
 $proyectos = require __DIR__ . '/datos/proyectos.php';
 $articulos = require __DIR__ . '/datos/articulos.php';
 $habilidades = require __DIR__ . '/datos/habilidades.php';
+$gustos = require __DIR__ . '/datos/gustos.php';
 
 $tituloPagina = 'Inicio';
 
